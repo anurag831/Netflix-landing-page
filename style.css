@@ -239,11 +239,15 @@ footer .questions {
     }
 
     .secImg img {
-        width: 305px;
+        width: 405px;
+        margin: auto;
     }
 
     .secImg video {
         width: 305px;
+        margin: auto ;
+        margin-right: -20px;
+        margin-top: -21px;
     }
 
     .hero> :nth-child(1) {
